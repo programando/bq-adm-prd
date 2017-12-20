@@ -28,8 +28,8 @@ mix.js('resources/assets/js/app.js', 'public/js')
 
     ], 'public/js/app.js'    )
    .styles ([
-        'resources/assets/css/font-awesome.css',
         'resources/assets/css/bootstrap.css',
         'resources/assets/css/toastr.css',
+        'resources/assets/css/font-awesome.css',
         'resources/assets/css/app.css',
        ], 'public/css/app.css') ;

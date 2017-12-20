@@ -19,7 +19,7 @@
 <body>
 
     <div class="container-fluid">
-        @include('templates.navbar')
+         @include('templates.navbar')
         @yield('content')
     </div>
 

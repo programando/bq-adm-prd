@@ -6,11 +6,16 @@
 /***********************************************************/
 
 body{
- padding-top: 50px;
+ padding-top: 80px;
 }
 
 .bq-logo-h{
- height: 70px;
+ height: 90px;
+}
+
+.bq-img{
+ height: 180px;
+ padding-top: 10px;
 }
 
 .bq-navbar{
@@ -20,3 +25,8 @@ body{
  width: 100%;
 
 }
+
+.well {
+ background-color: grey;
+}
+
